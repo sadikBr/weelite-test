@@ -16,10 +16,10 @@ function NavBar() {
               </Link>
 
               <Link
-                to='/guides'
+                to='/users'
                 class='text-black pr-3 py-2 text-sm font-medium'
               >
-                Guides
+                Users
               </Link>
 
               <Link
